@@ -23,3 +23,14 @@ div {
     margin: auto;
     max-width: 800px;
 }
+a:visited {
+    color: #095484;
+}
+   /* mouse over link */
+a:hover {
+    color: #8ebf42;
+}
+   /* selected link */
+a:active {
+   color: #800000;
+}
