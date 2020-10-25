@@ -6,6 +6,7 @@ body {
   background-color: black;
   color: white;
   font-family: Verdana;
+  max-width: 800px;
 }
 .center {
   display: block;
