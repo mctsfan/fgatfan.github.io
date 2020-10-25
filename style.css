@@ -16,3 +16,10 @@ body {
   width: 25%;
   height: 25%
 }
+div {
+    box-shadow: 10px 10px rgba(0, 0, 0, 1);
+    padding: 20px 20px 20px 20px;
+    padding: 15px;
+    margin: auto;
+    max-width: 800px;
+}
